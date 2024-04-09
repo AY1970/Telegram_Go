@@ -5,7 +5,7 @@
     "version": "0.2.0",
 
 
-=======
+
     "configurations": [
         
         {
@@ -16,5 +16,4 @@
             "program": "${fileDirname}"
         }
     ]
->>>>>>> 52d27f3c01e88d13c6c4ef5d97040fec97c06d31
 }
