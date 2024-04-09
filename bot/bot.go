@@ -7,7 +7,7 @@ import (
 
 	tele "gopkg.in/telebot.v3"
 )
-TeleToken = os.Getenv("TELE_TOKEN")
+
 func CreateBot(token string) {
 	pref := tele.Settings{
 		Token:  token,
